@@ -8,3 +8,9 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## This document
+
+The aim of this document is to analyze inflammation data from the r-novice-inflammation dataset.
+
+You can find the original data here: <http://swcarpentry.github.io/r-novice-inflammation/setup.html>
